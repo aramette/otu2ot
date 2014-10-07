@@ -1,0 +1,10 @@
+Package: otu2ot
+Type: Package
+Title: Calculate oligotypes for aligned FASTA sequences
+Version: 1.4
+Date: 2014-07-30
+Author: Alban Ramette
+Maintainer: Alban Ramette <ramette.alban@gmail.com>
+Description: The package provides R scripts to perform the oligotyping approach (http://oligotyping.org) as a way to exploring microbial patterns through subtle nucleotide variation within 16S rRNA gene tag sequences of closely related taxa. The original oligotype paper is referenced as: Eren et al. 2013 Methods in Ecology and Evolution. 4,1111-1119. doi: 10.1111/2041-210X.12114. http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12114/pdf
+Imports: seqinr
+License: GPL-2
