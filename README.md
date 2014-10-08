@@ -4,8 +4,7 @@ otu2ot
 A R package to determine oligotypes for DNA sequences.
 The package provides R scripts to perform the oligotyping approach 
 (http://oligotyping.org), as a way to exploring microbial patterns through 
-subtle nucleotide variation within 16S rRNA gene tag sequences of closely 
-related taxa. 
+subtle nucleotide variation within 16S rRNA gene sequences. 
 
 To directly use the package into your R session, use the files:   
 		* otu2ot_x.y.tar.gz (UNIX)   
