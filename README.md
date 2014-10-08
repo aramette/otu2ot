@@ -7,9 +7,9 @@ The package provides R scripts to perform the oligotyping approach
 subtle nucleotide variation within 16S rRNA gene tag sequences of closely 
 related taxa. 
 
-To directly use the package into your R session, use the files:
-  otu2ot_x.y.tar.gz (UNIX)
-  otu2ot_x.y.zip (WINDOWS)
+To directly use the package into your R session, use the files:   
+		* otu2ot_x.y.tar.gz (UNIX)   
+		* otu2ot_x.y.zip (WINDOWS)
 
 
 The R package is presented in: 
