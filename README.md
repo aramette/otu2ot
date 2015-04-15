@@ -13,8 +13,8 @@ To directly use the package into your R session, use the files:
 
 The R package is presented in: 
 Ramette and Buttigieg, "The R package otu2ot for implementing the entropy decomposition of nucleotide 
-variation in sequence data", submitted
-
+variation in sequence data", Front. Microbiol., 14 November 2014 | doi: 10.3389/fmicb.2014.00601 
+http://journal.frontiersin.org/article/10.3389/fmicb.2014.00601/full
 
 The original oligotype paper is described in: 
 Eren et al. 2013 Methods in Ecology and Evolution. 4,1111-1119. doi: 10.1111/2041-210X.12114.
