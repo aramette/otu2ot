@@ -6,7 +6,7 @@ The package provides R scripts to perform the oligotyping approach
 (http://oligotyping.org), as a way to exploring microbial patterns through 
 subtle nucleotide variation within 16S rRNA gene sequences. 
 
-To directly use the package into your R session, use the files:   
+To directly use the package into your R session, use any of the files:   
 		* otu2ot_x.y.tar.gz (UNIX)   
 		* otu2ot_x.y.zip (WINDOWS)
 
@@ -21,10 +21,12 @@ Eren et al. 2013 Methods in Ecology and Evolution. 4,1111-1119. doi: 10.1111/204
 http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12114/pdf
 
 installation
-============
-#assuming the file "otu2ot_1.4.tar.gz" is in the directory "C:/R/oligotyping/"
-
+=====
+Assuming the file "otu2ot_1.4.tar.gz" is in the directory "C:/R/oligotyping/", type in your R console:
 > setwd("C:/R/oligotyping/")
+
 > install.packages("otu2ot_1.4.tar.gz", repos = NULL, type = "source")
+
 > library(otu2ot)
+
 > help(otu2ot)
