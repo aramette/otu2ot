@@ -20,3 +20,11 @@ The original oligotype paper is described in:
 Eren et al. 2013 Methods in Ecology and Evolution. 4,1111-1119. doi: 10.1111/2041-210X.12114.
 http://onlinelibrary.wiley.com/doi/10.1111/2041-210X.12114/pdf
 
+installation
+============
+#assuming the file "otu2ot_1.4.tar.gz" is in the directory "C:/R/oligotyping/"
+
+> setwd("C:/R/oligotyping/")
+> install.packages("otu2ot_1.4.tar.gz", repos = NULL, type = "source")
+> library(otu2ot)
+> help(otu2ot)
