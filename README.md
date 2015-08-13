@@ -19,11 +19,15 @@ Installation
 =====
 A) Assuming the file "otu2ot_1.4.tar.gz" is in the directory "C:/R/oligotyping/", type in your R console:
 > setwd("C:/R/oligotyping/")
+
 > install.packages("otu2ot_1.4.tar.gz", repos = NULL, type = "source")
+
 > library(otu2ot)
+
 > help(otu2ot)
 
 B) A faster way:
 > library(devtools)
+
 > install_github("aramette/otu2ot")
 
